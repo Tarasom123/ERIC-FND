@@ -9,8 +9,13 @@ Code and appendix for External Reliable Information-enhanced Multimodal Contrast
 
 For dataset, please see
 https://github.com/MKLab-ITI/image-verification-corpus/tree/master
+
+
 and
+
+
 https://github.com/ICTMCG/DualEmotion
+
 for more information.
 
 If our code or models help your work, please cite our paper:
