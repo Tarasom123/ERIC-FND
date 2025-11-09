@@ -8,6 +8,7 @@ Code and appendix for External Reliable Information-enhanced Multimodal Contrast
 5. adaptively fuse the features and do the classification
 
 For dataset, please see
+
 https://github.com/MKLab-ITI/image-verification-corpus/tree/master
 
 
